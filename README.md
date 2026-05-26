@@ -7,6 +7,7 @@ The project utilizes the **Telco Customer Churn** dataset.
 * **Size:** 7,043 customers | 21 features
 * **Target Variable:** `Churn` (Imbalanced: ~73.5% Retained / ~26.5% Churned)
 * **Key Feature Categories:** Demographics, Account Information, and Services Subscribed.
+* 📥 **Source:** [Telco Customer Churn Dataset (Kaggle/IBM)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## 🛠️ Machine Learning Pipeline
 
