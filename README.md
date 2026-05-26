@@ -60,7 +60,7 @@ In a churn scenario, **False Negatives** (failing to identify a customer who lea
 
 2. Install the required dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+   pip install -r requirements.txt
 
 3. Open the Jupyter Notebook and run the cells sequentially:
    ```bash
